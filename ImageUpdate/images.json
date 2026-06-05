@@ -25,6 +25,11 @@
         "version_number": "9"
     },
     {
+        "distro": "rocky",
+        "version_name": "10",
+        "version_number": "10"
+    },
+    {
         "distro": "alma",
         "version_name": "8",
         "version_number": "8"
