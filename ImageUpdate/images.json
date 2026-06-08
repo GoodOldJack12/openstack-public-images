@@ -1,6 +1,11 @@
 [
     {
       "distro": "ubuntu",
+      "version_name": "resolute",
+      "version_number": "26.04"
+    },
+    {
+      "distro": "ubuntu",
       "version_name": "noble",
       "version_number": "24.04"
     },
@@ -23,6 +28,11 @@
         "distro": "rocky",
         "version_name": "9",
         "version_number": "9"
+    },
+    {
+        "distro": "rocky",
+        "version_name": "10",
+        "version_number": "10"
     },
     {
         "distro": "alma",
